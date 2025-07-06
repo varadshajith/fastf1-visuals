@@ -110,7 +110,7 @@ Bar chart showing tyre stints for each driver by compound.
 ## 🙌 Contributions & Feedback
 
 Discovered a bug? Got a new GP’s telemetry to add? Or scratching your head over the complete lack of comments?
-Go ahead — open a pull request or raise an issue. Contributions (and constructive chaos) are always welcome.
+Go ahead open a pull request or raise an issue. Contributions (and constructive chaos) are always welcome.
 
 ---
 
@@ -118,7 +118,7 @@ Go ahead — open a pull request or raise an issue. Contributions (and construct
 
 ## 🛡️ License
 
-MIT — feel free to fork, reuse, and build on top of it.
+MIT  feel free to fork, reuse, and build on top of it.
 
 ---
 
