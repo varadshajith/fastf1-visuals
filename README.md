@@ -114,5 +114,13 @@ Go ahead — open a pull request or raise an issue. Contributions (and construct
 
 ---
 
+---
+
+## 🛡️ License
+
+MIT — feel free to fork, reuse, and build on top of it.
+
+---
+
 
 
