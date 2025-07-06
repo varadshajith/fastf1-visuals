@@ -27,13 +27,13 @@ def get_tyre_life(session):
                     'Start' : start,
                     'End' : end,
                     'Laps' : end-start + 1
-                }) 
+                })
 
     return pd.DataFrame(tyre_data)
 
 tyre_df = get_tyre_life(session)
 
-print(tyre_df.head())
+print(tyre_df)
 
 
 plt.figure(figsize= (15,8))
