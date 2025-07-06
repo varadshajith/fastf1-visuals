@@ -118,7 +118,7 @@ Go ahead open a pull request or raise an issue. Contributions (and constructive 
 
 ## 🛡️ License
 
-MIT  feel free to fork, reuse, and build on top of it.
+MIT - feel free to fork, reuse, and build on top of it.
 
 ---
 
