@@ -98,7 +98,7 @@ Gold outline for the winner (Verstappen, obviously).
 ![Tyre Strategy](.github/screenshots/tyre_strategy_bar_1.png)
 The graph.
 
-![Tyre Strategy data](.github/screenshots/tyre_strategy_bar_1.png)
+![Tyre Strategy data](.github/screenshots/tyre_strategy_bar_2.png)
 The data is displayed on the console.
 
 Bar chart showing tyre stints for each driver by compound.  
